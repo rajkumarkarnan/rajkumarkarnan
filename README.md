@@ -6,9 +6,9 @@
 
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on **Contact Center platform**
+- 🔭 I’m currently working on **AWS Connect, AWS Lex and Web development**
 
-- 🌱 I’m currently learning **AWS connect, Chat bot, Django**
+- 🌱 I’m currently learning **Django and AWS Services**
 
 - 👯 I’m looking to collaborate on **Web development**
 
